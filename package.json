@@ -22,7 +22,7 @@
     "extends": "react-app"
   },
 
-  "homepage": "https://codefitness.github.io/react-american-football-scoreboard",
+  "homepage": "https://codefitness21.github.io/react-american-football-scoreboard",
   "browserslist": {
     "production": [
       ">0.2%",
