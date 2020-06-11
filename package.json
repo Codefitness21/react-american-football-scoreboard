@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
+    
     "deploy": "gh-pages -d src",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -22,7 +22,7 @@
     "extends": "react-app"
   },
 
-  "homepage": "https://Codefitness.github.io/react-american-football-scoreboard",
+  "homepage": "https://codefitness.github.io/react-american-football-scoreboard",
   "browserslist": {
     "production": [
       ">0.2%",
